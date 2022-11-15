@@ -1,0 +1,6 @@
+{
+    "params": {
+        "PUBLIC_SERVER_KEY": "MY_PUBLIC_SERVER_KEY",
+        "PRIVATE_SERVER_KEY": "MY_SERVER_PRIATE_KEY"
+    }
+}
